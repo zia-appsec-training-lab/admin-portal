@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: portal-engineering
+  description: Fictional Portal Engineering team
+spec:
+  type: team
+  children: []
